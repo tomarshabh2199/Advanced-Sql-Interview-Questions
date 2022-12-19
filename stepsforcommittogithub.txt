@@ -1,7 +1,0 @@
-git init
-git add -A
-git commit -m “your message”
-git remote add origin https://github.com/username/reponame.git
-git pull –rebase
-git branch -m master main
-git push -f origin main
